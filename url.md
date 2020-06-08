@@ -9,6 +9,6 @@ permalink: /URLs/
 * [Slide Sistem Operasi](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Slides/)
 * [Demo/Lab Sistem Operasi](https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/)
 
-#### Navigasi
+### Navigasi
 * [Tentang Saya](../)
 * [Referensi Seputar Sistem Operasi](./)
