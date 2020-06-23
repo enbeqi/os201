@@ -1,32 +1,32 @@
 Script started on Mon 08 Jun 2020 07:52:25 PM WIB
-muhammad.rifqi84@badak:~/UAS$ PS1="$ "
+]0;muhammad.rifqi84@badak: ~/UASmuhammad.rifqi84@badak:~/UAS$ PS1="$ "
 $ echo $GitHubUser
 enbeqi
 $ echo $PSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
 $ eval $PSTAMP
-200608-195247-d5aa-UAS/>
+200608-195247-d5aa-UAS/> 
 $ PS1="\$(eval \$PSTAMP)"
 200608-195256-f155-UAS/> echo -e $CEKSAYA
-enbeqi ZCZCSCRIPTSTART 200601-163331 enbeqi
- enbeqi enbeqi 200601-163331-e72a-muhammad.rifqi84/ 200601-163331 SEQOK SUMOK e72a8a48
- enbeqi enbeqi 200601-163333-55d8-muhammad.rifqi84/ 200601-163333 SEQOK SUMOK 55d8e394
- enbeqi enbeqi 200601-163404-1982-muhammad.rifqi84/ 200601-163404 SEQOK SUMOK 19827c67
- enbeqi enbeqi 200601-163439-de26-muhammad.rifqi84/ 200601-163439 SEQOK SUMOK de265f0c
+enbeqi ZCZCSCRIPTSTART 200601-163331 enbeqi 
+ enbeqi enbeqi 200601-163331-e72a-muhammad.rifqi84/ 200601-163331 SEQOK SUMOK e72a8a48 
+ enbeqi enbeqi 200601-163333-55d8-muhammad.rifqi84/ 200601-163333 SEQOK SUMOK 55d8e394 
+ enbeqi enbeqi 200601-163404-1982-muhammad.rifqi84/ 200601-163404 SEQOK SUMOK 19827c67 
+ enbeqi enbeqi 200601-163439-de26-muhammad.rifqi84/ 200601-163439 SEQOK SUMOK de265f0c 
  enbeqi ZCZCSCRIPTSTOP 200601-163454 SEQOK
 200608-195304-41a9-UAS/> echo -e $CEKSEBELA1
-enbeqi ZCZCSCRIPTSTART 200606-114956 fadhilhmr
- enbeqi fadhilhmr 200606-115026-9291-fadhil.ilham/ 200606-115026 SEQOK SUMOK 9291d098
- enbeqi fadhilhmr 200606-115033-c2fc-fadhil.ilham/ 200606-115033 SEQOK SUMOK c2fcca1d
- enbeqi fadhilhmr 200606-115048-e15b-fadhil.ilham/ 200606-115048 SEQOK SUMOK e15b36c7
- enbeqi fadhilhmr 200606-115056-3505-fadhil.ilham/ 200606-115056 SEQOK SUMOK 350583ba
+enbeqi ZCZCSCRIPTSTART 200606-114956 fadhilhmr 
+ enbeqi fadhilhmr 200606-115026-9291-fadhil.ilham/ 200606-115026 SEQOK SUMOK 9291d098 
+ enbeqi fadhilhmr 200606-115033-c2fc-fadhil.ilham/ 200606-115033 SEQOK SUMOK c2fcca1d 
+ enbeqi fadhilhmr 200606-115048-e15b-fadhil.ilham/ 200606-115048 SEQOK SUMOK e15b36c7 
+ enbeqi fadhilhmr 200606-115056-3505-fadhil.ilham/ 200606-115056 SEQOK SUMOK 350583ba 
  enbeqi ZCZCSCRIPTSTOP 200606-115112 SEQOK
 200608-195311-8b2f-UAS/> echo -e $CEKSEBELA2
-enbeqi ZCZCSCRIPTSTART 200601-131027 fadhilibra
- enbeqi fadhilibra 200601-131102-fd88-fadhil.ibrahim/ 200601-131102 SEQOK SUMOK fd8898d4
- enbeqi fadhilibra 200601-131119-8d18-fadhil.ibrahim/ 200601-131119 SEQOK SUMOK 8d1862d7
- enbeqi fadhilibra 200601-131133-f3d9-fadhil.ibrahim/ 200601-131133 SEQOK SUMOK f3d95abb
- enbeqi fadhilibra 200601-131159-551b-fadhil.ibrahim/ 200601-131159 SEQOK SUMOK 551bdc73
+enbeqi ZCZCSCRIPTSTART 200601-131027 fadhilibra 
+ enbeqi fadhilibra 200601-131102-fd88-fadhil.ibrahim/ 200601-131102 SEQOK SUMOK fd8898d4 
+ enbeqi fadhilibra 200601-131119-8d18-fadhil.ibrahim/ 200601-131119 SEQOK SUMOK 8d1862d7 
+ enbeqi fadhilibra 200601-131133-f3d9-fadhil.ibrahim/ 200601-131133 SEQOK SUMOK f3d95abb 
+ enbeqi fadhilibra 200601-131159-551b-fadhil.ibrahim/ 200601-131159 SEQOK SUMOK 551bdc73 
  enbeqi ZCZCSCRIPTSTOP 200601-131205 SEQOK
 200608-195317-b008-UAS/> exit
 exit
